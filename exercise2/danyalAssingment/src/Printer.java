@@ -1,4 +1,4 @@
-package andyAssingment;
+
 
 public class Printer {// Printer class which will be used for printing 
 	  public void display() {
