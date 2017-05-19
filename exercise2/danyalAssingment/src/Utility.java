@@ -1,4 +1,3 @@
-package andyAssingment;
 
 public class Utility {//This is the Utility Class
 

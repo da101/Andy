@@ -1,4 +1,4 @@
-package andyAssingment;
+
 
 public class TicketXplorer extends Printer implements Ticket{// This class Implements interface Ticket and inherits Printer
 
