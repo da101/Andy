@@ -4,7 +4,7 @@
 package andyAssingment;
 
 /**
- * @author Andy
+ * @author Danyal
  *
  */
 public interface Ticket {// Interface class which models abstraction
